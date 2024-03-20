@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Container>
-        <Heading />
+        <Heading />  
         <ItemBox />  
       </Container>
     </>
