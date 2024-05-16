@@ -7,7 +7,7 @@ import Container from './Container';
 function App() {  
   return ( 
     <>      
-      <Container> 
+      <Container>  
         <Heading />    
         <ItemBox />  
       </Container>
