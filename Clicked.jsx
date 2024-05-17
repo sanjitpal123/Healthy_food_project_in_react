@@ -6,7 +6,7 @@ import { Container } from 'react-dom';
 
 function App() {
   return ( 
-    <>
+    <> 
       <Container>
         <Heading />
         <ItemBox />
