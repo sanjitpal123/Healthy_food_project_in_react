@@ -10,7 +10,7 @@ function App() {
       <Container>
         <Heading /> 
         <ItemBox />
-      </Container>
+      </Container> 
     </>
   );
 }
